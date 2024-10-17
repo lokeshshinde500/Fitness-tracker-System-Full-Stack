@@ -1,4 +1,5 @@
-sorry , i dont know but my backend not show in this directory please refer this repo link for backend code.
+due github blob issue backend folder is not opening plz refer this link to view code
+
 backend repo : https://github.com/lokeshshinde500/Fitness-tracker-System-Backend
 
 ## Frontend API URL
